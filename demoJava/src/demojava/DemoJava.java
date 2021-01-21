@@ -11,16 +11,7 @@ public class DemoJava {
         int[] list=new int[5];
         
         
-        list[0]=35;
-        list[1]=3;
-        list[2]=2;
-        list[3]=34;
-        list[4]=65;
-        
-        System.out.println(list[0]);
-        
-        
-        System.out.println("My second change");
+ 
         
     }
     
